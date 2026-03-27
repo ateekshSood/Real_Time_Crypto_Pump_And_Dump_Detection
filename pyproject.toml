@@ -8,6 +8,7 @@ dependencies = [
     "channels>=4.3.2",
     "channels-redis>=4.3.0",
     "django>=6.0.3",
+    "matplotlib>=3.10.8",
     "numpy>=2.4.3",
     "pandas>=3.0.1",
     "python-binance>=1.0.35",
@@ -17,4 +18,5 @@ dependencies = [
     "ta>=0.11.0",
     "tqdm>=4.67.3",
     "websockets>=16.0",
+    "xgboost>=3.2.0",
 ]
