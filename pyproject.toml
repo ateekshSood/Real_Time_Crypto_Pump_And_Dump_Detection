@@ -5,9 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "catboost>=1.2.10",
     "channels>=4.3.2",
     "channels-redis>=4.3.0",
     "django>=6.0.3",
+    "lightgbm>=4.6.0",
     "matplotlib>=3.10.8",
     "numpy>=2.4.3",
     "pandas>=3.0.1",
